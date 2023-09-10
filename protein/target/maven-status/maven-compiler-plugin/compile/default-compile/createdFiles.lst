@@ -1,0 +1,6 @@
+com\protein\models\AminoAcid.class
+com\protein\services\ProteinService.class
+com\protein\models\Protein.class
+com\protein\utils\CommonUtil.class
+TestProtein.class
+com\protein\models\Digestion.class
